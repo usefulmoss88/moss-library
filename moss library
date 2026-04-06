@@ -2441,7 +2441,7 @@ function library:CreateWindow(settings1, onLoad)
 	txt.Size = UDim2.new(0, 400, 0, 80)
 	txt.Position = UDim2.new(0.5, -200, 0.5, -40)
 	txt.BackgroundTransparency = 1
-	txt.Text = "Powered by Moss"
+	txt.Text = "Powered by Moss Coding Library"
 	txt.TextColor3 = Color3.fromRGB(0, 255, 0)
 	txt.Font = Enum.Font.GothamBold
 	txt.TextScaled = true
