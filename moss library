@@ -1,4 +1,4 @@
-local LibraryVersion = "0.1"
+local LibraryVersion = "0.0.1"
 
 local HttpService = game:GetService("HttpService")
 local UserInputService = game:GetService("UserInputService")
